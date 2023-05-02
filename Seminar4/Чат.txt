@@ -1,0 +1,90 @@
+
+
+Павел  кому  Все 20:23
+https://laragon.org/
+https://ospanel.io/
+xampp
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+https://paiza.io/en/projects/new?language=php
+
+Павел  кому  Все 20:28
+<?= $name; ?>
+https://pastebin.com/fUj5ARX9
+https://www.php.net/manual/en/pdo.connections.php
+https://snipp.ru/php/manual-pdo
+
+Павел  кому  Все 20:34
+https://pastebin.com/fUj5ARX9
+
+Павел  кому  Все 20:44
+https://pastebin.com/DtTZ6UPN
+
+Павел  кому  Все 21:06
+https://site.ru/user?id=1https://site.ru/user?id=2https://site.ru/user?id=5
+
+Александр Фисай  кому  Все 21:11
+А как используются два файла с кодом на сайте? Как-то увязываются?
+
+Евгений Проскуряков  кому  Все 21:18
+https://paiza.io/projects/CN5BBVgBgvYWgFRh2ZNVig?language=php
+
+Павел  кому  Все 21:19
+https://onecompiler.com/mysql
+
+Александр Фисай  кому  Все 21:37
+SELECT id, name AS Имя FROM ...
+У меня до случилось. Сдох микрофон(
+
+Александр Фисай  кому  Все 19:59
++
+
+Кирилл Котомчанин  кому  Все 19:59
++
+
+Павел  кому  Все 20:00
+https://quizizz.com/join?gc=720397
+
+Павел  кому  Все 20:01
+https://quizizz.com/join?gc=720397
+https://quizizz.com/join?gc=720397
+
+Павел  кому  Все 20:23
+https://laragon.org/
+https://ospanel.io/
+xampp
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+https://paiza.io/en/projects/new?language=php
+
+Павел  кому  Все 20:28
+<?= $name; ?>
+https://pastebin.com/fUj5ARX9
+https://www.php.net/manual/en/pdo.connections.php
+https://snipp.ru/php/manual-pdo
+
+Павел  кому  Все 20:34
+https://pastebin.com/fUj5ARX9
+
+Павел  кому  Все 20:44
+https://pastebin.com/DtTZ6UPN
+
+Павел  кому  Все 21:06
+https://site.ru/user?id=1https://site.ru/user?id=2https://site.ru/user?id=5
+
+Александр Фисай  кому  Все 21:11
+А как используются два файла с кодом на сайте? Как-то увязываются?
+
+Евгений Проскуряков  кому  Все 21:18
+https://paiza.io/projects/CN5BBVgBgvYWgFRh2ZNVig?language=php
+
+Павел  кому  Все 21:19
+https://onecompiler.com/mysql
+
+Александр Фисай  кому  Все 21:37
+SELECT id, name AS Имя FROM ...
+У меня до случилось. Сдох микрофон(
+
+Станислав Щадров  кому  Все 21:48
+https://onecompiler.com/mysql/3z6qywjuy
+
+Домашняя задание
+https://disk.yandex.ru/d/nvAvzSAuiBt3Ig
