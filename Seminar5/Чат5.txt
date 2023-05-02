@@ -1,0 +1,67 @@
+Алексей  кому  Все 19:58
+Добрый вечер!
+
+Ольга Кровякова-Григорьева  кому  Все 19:59
++
+
+Вы  кому  Все 19:59
+добрый вечер!
+
+Павел  кому  Все 20:00
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+
+Павел  кому  Все 20:09
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+https://quizizz.com/join?gc=249769
+
+Павел  кому  Все 20:25
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+https://reqres.in
+
+Ольга Кровякова-Григорьева  кому  Все 20:30
+Мы все это в VSCode  можем делать?
++
+
+Павел  кому  Все 20:31
+https://www.postman.com/
+https://gb.ru/posts/kak-testirovat-api-ili-postman-dlya-chajnikovТестирование API c postman: https://www.youtube.com/watch?v=zfrQtU8eCEoНа степике: https://stepik.org/course/120679/infoЕще инфо: https://academy.yandex.ru/handbook/python/article/potokovyj-vvodvyvod-rabota-s-tekstovymi-fajlami-json
+https://jsonformatter.org/xml-formatter
+https://jsonformatter.org/json-parser
+<?xml version="1.0" encoding="UTF-8"?>
+
+Павел  кому  Все 20:37
+https://disk.yandex.ru/i/XMW2QlG2VjNkRA
+
+Павел  кому  Все 20:44
+https://disk.yandex.ru/i/i3tcrj3vPxwwvg
+
+Павел  кому  Все 20:50
+https://disk.yandex.ru/i/ehL6g0t_hCk8Xg
+https://jsonformatter.org/xml-formatter
+https://disk.yandex.ru/i/Nt7kLMqHeJTDTA
+
+Павел  кому  Все 21:30
+https://pastebin.com/JZPsiDYP
+
+Евгений Проскуряков  кому  Все 21:33
+Для получения текста из тега можно использовать свойство innerHTML элемента. Например, чтобы получить текст из тега DIV, можно использовать следующий код:
+
+```
+<div id="example">Пример текста</div>
+
+<script>
+  var text = document.getElementById("example").innerHTML;
+  console.log(text); // Выведет "Пример текста"
+</script>
+```
+
+Аналогично можно получать текст из любых других тегов. Главное, чтобы у элемента был уникальный идентификатор (атрибут id).
+это ChatGPT подсказывает))
+
+Павел  кому  Все 21:39
+https://www.youtube.com/watch?v=_UywBskWJ7Q&list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&ab_channel=ArchakovBlog
